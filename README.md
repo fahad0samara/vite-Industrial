@@ -2,6 +2,9 @@
 # vite Industrial
 
 This is a website template for an industrial company built using HTML, CSS, and JavaScript. It is designed to be responsive and provide a user-friendly experience.
+![javscript5](https://github.com/fahad0samara/vite-Industrial-/assets/90055525/c673b637-2aab-4ac5-b172-08c569214d67)
+
+
 
 ## Table of Contents
 
